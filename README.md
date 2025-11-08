@@ -1,11 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Atif 🌸</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFB6C1&center=true&vCenter=true&width=435&lines=Arch+Linux+Enthusiast;TypeScript+Lover;Building+Cute+UIs)](https://git.io/typing-svg)
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+ <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFB6C1&center=true&vCenter=true&width=435&lines=Arch+Linux+Enthusiast;TypeScript+Lover;Building+Cute+UIs" style="vertical-align: middle;" />
+  </a>
 </p>
+
 
 <p align="center">💻 Arch Linux • 🧠 TypeScript • 🖤 Hyprland • 🌌 Aesthetic Dev</p>
 
